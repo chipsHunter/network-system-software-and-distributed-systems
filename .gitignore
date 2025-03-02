@@ -1,1 +1,3 @@
 server/cmake-build-debug
+server/build
+.idea
